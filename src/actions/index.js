@@ -1,5 +1,3 @@
-import from 'react-redux';
-
 export function selectBook(book) {
   // selectBook is an action creator. It needs to return an action
   // which is an object with a type property. Usually a payload as well.
